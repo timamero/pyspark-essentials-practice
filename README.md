@@ -9,7 +9,6 @@ Built as prep work before tackling a real healthcare data pipeline (Synthea FHIR
 ## Contents
 
 - `pyspark_essentials_practice.ipynb` — the notebook, runnable in any PySpark environment
-- `pyspark_essentials_practice.html` — a static, viewable export of the notebook with outputs, no Spark environment required
 
 ## Skills Practiced
 
